@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
