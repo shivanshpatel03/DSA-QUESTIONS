@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0138-copy-list-with-random-pointer](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0383-ransom-note) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
