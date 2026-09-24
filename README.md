@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0242-valid-anagram](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0383-ransom-note) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1396-design-underground-system](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1396-design-underground-system) |
 | [1436-destination-city](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1436-destination-city) |
 ## Counting
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Data Stream
 |  |
 | ------- |
