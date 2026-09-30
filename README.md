@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0155-min-stack) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1396-design-underground-system](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1396-design-underground-system) |
 ## Divide and Conquer
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Data Stream
