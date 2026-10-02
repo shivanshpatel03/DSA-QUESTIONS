@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0242-valid-anagram](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0383-ransom-note) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1396-design-underground-system](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1396-design-underground-system) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Data Stream
 |  |
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
