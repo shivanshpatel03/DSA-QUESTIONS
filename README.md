@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [1207-unique-number-of-occurrences](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1396-design-underground-system](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1396-design-underground-system) |
 | [1436-destination-city](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1436-destination-city) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2390-removing-stars-from-a-string) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
