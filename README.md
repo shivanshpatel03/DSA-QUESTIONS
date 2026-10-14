@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0456-132-pattern](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0456-132-pattern](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
 ## Linked List
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2390-removing-stars-from-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
