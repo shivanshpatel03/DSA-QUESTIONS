@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1436-destination-city](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1436-destination-city) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Data Stream
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
 | ------- |
