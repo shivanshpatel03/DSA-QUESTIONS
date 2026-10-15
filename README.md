@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1396-design-underground-system](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1396-design-underground-system) |
 ## Divide and Conquer
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0456-132-pattern) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
