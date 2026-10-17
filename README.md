@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1436-destination-city](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1436-destination-city) |
+| [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
 ## Quickselect
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Indexed Tree
 |  |
@@ -225,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
