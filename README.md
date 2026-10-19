@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1436-destination-city](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1436-destination-city) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2073-time-needed-to-buy-tickets) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0643-maximum-average-subarray-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
 ## Quickselect
 |  |
@@ -207,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0456-132-pattern) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Queue
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Indexed Tree
@@ -237,5 +242,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
