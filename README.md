@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0496-next-greater-element-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
 ## Quickselect
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -242,6 +246,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
