@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1207-unique-number-of-occurrences](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0875-koko-eating-bananas) |
 ## Linked List
 |  |
 | ------- |
