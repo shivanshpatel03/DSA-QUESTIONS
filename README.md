@@ -275,14 +275,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Matrix
 |  |
 | ------- |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1095-find-in-mountain-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
