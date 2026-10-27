@@ -276,16 +276,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -302,4 +305,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
