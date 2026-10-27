@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
