@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Backtracking
 |  |
