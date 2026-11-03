@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [2235-add-two-integers](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/2235-add-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
