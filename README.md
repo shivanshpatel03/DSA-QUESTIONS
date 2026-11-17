@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1095-find-in-mountain-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1095-find-in-mountain-array) |
+| [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1436-destination-city](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1436-destination-city) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1396-design-underground-system](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1396-design-underground-system) |
 | [1436-destination-city](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1436-destination-city) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 ## Matrix
 |  |
 | ------- |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Search Tree
 |  |
 | ------- |
