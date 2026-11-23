@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0875-koko-eating-bananas) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1095-find-in-mountain-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1095-find-in-mountain-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1396-design-underground-system](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1396-design-underground-system) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 ## Matrix
