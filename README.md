@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1696-jump-game-vi](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0968-binary-tree-cameras](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0968-binary-tree-cameras) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0968-binary-tree-cameras](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0968-binary-tree-cameras) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0968-binary-tree-cameras) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivanshpatel03/DSA-QUESTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
